@@ -5,8 +5,8 @@ Simple zip for friends: `dist/HuntsAndRifts-1.0.0.zip`.
 
 ## Decisions needed before posting
 
-1. **website_url** Done: https://github.com/Greeneye0/HuntsAndRifts (repo created, MIT LICENSE added).
-2. **License.** Done: MIT (LICENSE in repo and package).
+1. **website_url** Done: https://github.com/Greeneye0/HuntsAndRifts (repo created, AGPL-3.0 LICENSE added).
+2. **License.** Done: AGPL-3.0 (LICENSE in repo and package).
 3. **Icon.** Done: icon.png is the N1 composite (name over the Church of the Damned card and the rift card). Nexus header: `dist/nexus_header_1400x400.png`.
 4. **Verify in game first** (Thunderstore moderators flagged rapid re-releases on Satisvampory, so 1.0.0 should be the tested build): the stray "T1/T2" text beside the map panel, the rift phase wording while a rift winds down, tier symbols with both tiers open, and the other session's scrolling/cleanup changes. The log lines to check: `HuntsAndRifts stray-diag`, `HuntsAndRifts gates:`, `HuntsAndRifts rift card shows`.
 5. **Folder name.** The project folder is still `C:\VRisingMods\HuntClock` (another session works there). Assembly, GUID, plugin name, manifest, README, and changelog are renamed; the folder is not.
