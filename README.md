@@ -53,8 +53,6 @@ no_map_tip = false
 
 Restart the game for the change to take effect. This only affects the Servant Hunts help box in the throne map view. It is a **config-only option**; there is no `.map_tip` chat command.
 
-Leave `IncludeTestTiers = false` for normal play. Legacy `observed_wait_*` settings, if present, are no longer used by the timer bars.
-
 ## Thanks
 
 Thanks to **Lomack** and **Katen** for testing.
