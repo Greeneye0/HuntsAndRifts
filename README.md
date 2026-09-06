@@ -37,7 +37,7 @@ Pickup text includes your bag total. For example, `+5 Bone (1234)` means you pic
 Requires V Rising 1.1 and [BepInExPack V Rising 1.733.2](https://thunderstore.io/c/v-rising/p/BepInEx/BepInExPack_V_Rising/).
 
 1. Close V Rising.
-2. Copy `HuntsAndRifts.dll` into your game's `BepInEx\plugins` folder, replacing the previous copy when updating.
+2. Copy `HuntsAndRifts.dll` into your game's `BepInEx\plugins` folder, replacing the previous copy when updating. (Or install with r2modman / Thunderstore Mod Manager.)
 3. Start the game.
 
 ## Show the map tip
@@ -61,4 +61,4 @@ Thanks to **Lomack** and **Katen** for testing.
 
 Source code and issues: [github.com/Greeneye0/HuntsAndRifts](https://github.com/Greeneye0/HuntsAndRifts). Licensed under AGPL-3.0.
 
-See [CHANGELOG.md](CHANGELOG.md) for release history.
+See the [changelog](https://github.com/Greeneye0/HuntsAndRifts/blob/main/CHANGELOG.md) for release history.
