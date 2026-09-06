@@ -1,4 +1,6 @@
-# HuntsAndRifts 1.0.0 — posting sheet (review before posting; nothing has been posted)
+# HuntsAndRifts 1.0.0 — posting sheet
+
+POSTED 2026-09-06: Nexus https://www.nexusmods.com/vrising/mods/41 (mod 41) and Thunderstore https://thunderstore.io/c/v-rising/p/Team_GreenEye/HuntsAndRifts/ (categories Mods, Client, Oakveil Update). Icon: N1 composite; Nexus header 1300x372.
 
 Package: `dist/HuntsAndRifts-1.0.0-thunderstore.zip` (manifest.json, README.md, CHANGELOG.md, icon.png 256x256, plugins/HuntsAndRifts.dll).
 Simple zip for friends: `dist/HuntsAndRifts-1.0.0.zip`.
