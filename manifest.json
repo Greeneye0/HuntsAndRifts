@@ -1,7 +1,7 @@
 {
   "name": "HuntsAndRifts",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/Greeneye0/HuntsAndRifts",
   "description": "Client-only UI: servant hunts grouped with timers, power and specializations, click to focus the map; both Mortium Rift tiers with timers on the map card and plot tooltips; pickup bag totals.",
   "dependencies": [
     "BepInEx-BepInExPack_V_Rising-1.733.2"

@@ -59,4 +59,6 @@ Leave `IncludeTestTiers = false` for normal play. Legacy `observed_wait_*` setti
 
 Thanks to **Lomack** for testing.
 
+Source code and issues: [github.com/Greeneye0/HuntsAndRifts](https://github.com/Greeneye0/HuntsAndRifts). Licensed under MIT.
+
 See [CHANGELOG.md](CHANGELOG.md) for release history.

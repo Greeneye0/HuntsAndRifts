@@ -5,8 +5,8 @@ Simple zip for friends: `dist/HuntsAndRifts-1.0.0.zip`.
 
 ## Decisions needed before posting
 
-1. **website_url** in manifest.json is empty. Satisvampory points at `https://github.com/Greeneye0/Satisvampory`. Create `Greeneye0/HuntsAndRifts` (or say to leave it empty) and I will fill it in.
-2. **License.** No LICENSE file is in the package. This mod is original code (not a fork), so MIT is the simplest; AGPL-3.0 would match Satisvampory. Pick one and I will add LICENSE and a README line.
+1. **website_url** Done: https://github.com/Greeneye0/HuntsAndRifts (repo created, MIT LICENSE added).
+2. **License.** Done: MIT (LICENSE in repo and package).
 3. **Icon.** Done: icon.png is the N1 composite (name over the Church of the Damned card and the rift card). Nexus header: `dist/nexus_header_1400x400.png`.
 4. **Verify in game first** (Thunderstore moderators flagged rapid re-releases on Satisvampory, so 1.0.0 should be the tested build): the stray "T1/T2" text beside the map panel, the rift phase wording while a rift winds down, tier symbols with both tiers open, and the other session's scrolling/cleanup changes. The log lines to check: `HuntsAndRifts stray-diag`, `HuntsAndRifts gates:`, `HuntsAndRifts rift card shows`.
 5. **Folder name.** The project folder is still `C:\VRisingMods\HuntClock` (another session works there). Assembly, GUID, plugin name, manifest, README, and changelog are renamed; the folder is not.
@@ -25,7 +25,7 @@ manifest.json as packaged:
 {
   "name": "HuntsAndRifts",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/Greeneye0/HuntsAndRifts",
   "description": "Client-only UI: servant hunts grouped with timers, power and specializations, click to focus the map; both Mortium Rift tiers with timers on the map card and plot tooltips; pickup bag totals.",
   "dependencies": ["BepInEx-BepInExPack_V_Rising-1.733.2"]
 }
